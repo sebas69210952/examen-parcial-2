@@ -61,7 +61,7 @@ REACT es una BIBLIOTECA JavaScript de CÓDIGO ABIERTO CREADA por FACEBOOK.
 ```cmd
 TOYOTA, SUZUKI, BMW, FORD, KIA, ISUZU, AUDI
 ```
-### 1️⃣2️⃣ Mostrar en consola el código ASCII de la letra `R`. :triangular_flag_on_post:
+### 1️⃣2️⃣ Mostrar en consola de tipo `error` el código ASCII de la letra `R`. :triangular_flag_on_post:
 ### 1️⃣3️⃣ Mostrar en consola 4 veces la siguiente frase: `HOLA MUNDO`. :triangular_flag_on_post:
 ### 1️⃣4️⃣ Mostrar en consola con el siguiente formato el mensaje: :triangular_flag_on_post:
 ```cmd
@@ -73,3 +73,24 @@ En el grupo 2
 
 ### 1️⃣5️⃣ Mostrar en consola un número random `entre 25 y el 50`. :triangular_flag_on_post:
 ### 1️⃣6️⃣ Mostrar en consola el caracter que se encuentra en la posicion `8` de la variable `libreria`. :triangular_flag_on_post:
+### 1️⃣7️⃣ Acceda a los caracteres de la cadena 'JavaScript' utilizando un número aleatorio. El resultado mostrar en la consola de tipo `advetencia` :triangular_flag_on_post:
+### 1️⃣8️⃣ Convertir los siguientes valores: :triangular_flag_on_post:
+```cmd
+9.8     -> Numero entero
+-5      -> Numero Absoluto
+62      -> Cadena de texto
+"28"    -> Numero entero
+"15.65" -> Numero decimal
+```
+### 1️⃣9️⃣ Muestra el valor máximo y mínimo del siguiente conjunto de número: :triangular_flag_on_post:
+```js
+4, 8, 16, 18, -52, -3, -1, 7
+```
+### 2️⃣0️⃣ Redondea hacia arriba y hacia abajo el siguiente conjunto de número: :triangular_flag_on_post:
+```js
+let num1 = 9.78
+let num2 = 5.20
+let num3 = 1.64
+let num4 = 5.7
+let num5 = 3.23
+```
